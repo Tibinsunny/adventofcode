@@ -5,4 +5,6 @@ These are my Solutons to Advent Of Code 2020.I'm Just trying to solve the proble
 - [x] Day 1:-   
             I started a bit latebut managed to find solution for both the problems easily 😛 😛 
 - [x] Day 2:-   
-            Part 1 Problem  was really  cool😎😎 !!But I somehow missed some key points while solving 2nd Part.So it took me around 35+ Minutes to complete the second part 😛 
+            Part 1 Problem  was really  cool😎😎 !!But I somehow missed some key points while solving 2nd Part.So it took me around 35+ Minutes to complete the second part 😛   
+- [x] Day 3:-    
+            Got solutions for both problems with 30 Minute. 
