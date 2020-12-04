@@ -8,3 +8,5 @@ These are my Solutons to Advent Of Code 2020.I'm Just trying to solve the proble
             Part 1 Problem  was really  cool😎😎 !!But I somehow missed some key points while solving 2nd Part.So it took me around 35+ Minutes to complete the second part 😛   
 - [x] Day 3:-    
             Got solutions for both problems with 30 Minute. 
+- [x] Day 4:-    
+            I started the challenge after 5 Hours. Was really busy with some university stuff and assignments. But managed to find a simple solution.  
