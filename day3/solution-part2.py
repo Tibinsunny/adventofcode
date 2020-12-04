@@ -3,7 +3,7 @@ k2=3
 k1=1
 k3=5
 k4=7
-flag1=flag2=flag3=flag4=flag5=0;
+flag1=flag2=flag3=flag4=flag5=0
 with open('file.txt') as my_file:
     testsite_array = my_file.readlines()
 # print(((testsite_array[0].strip())*len(testsite_array))[31])
