@@ -10,3 +10,5 @@ These are my Solutons to Advent Of Code 2020.I'm Just trying to solve the proble
             Got solutions for both problems with 30 Minute. 
 - [x] Day 4:-    
             I started the challenge after 5 Hours. Was really busy with some university stuff and assignments. But managed to find a simple solution.  
+- [x] Day 5:-    
+            The Problem was really interesting. I used something similar to binary search in the Part1.Part2 was way too easy than yesterdays problem 😛 ! Bingoo I did it  
